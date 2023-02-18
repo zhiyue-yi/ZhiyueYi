@@ -2,8 +2,6 @@
 [![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/zhiyueyi)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiyue/)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ZhiyueYi.ZhiyueYi)
-
 ```javascript
 export const zhiyue = {
   firstName: {
